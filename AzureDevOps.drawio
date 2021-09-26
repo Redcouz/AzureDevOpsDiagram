@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T14:51:24.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="bcHFTFfG7VuOQ_lB34Uh" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T15:07:48.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="zK8PEKxTLO4SxY4n9PTs" version="15.3.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3523" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1043,6 +1043,9 @@
         <mxCell id="pa42uQ4c4wpUZk6XF-JP-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=3" parent="1" source="pa42uQ4c4wpUZk6XF-JP-81" target="pa42uQ4c4wpUZk6XF-JP-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="pa42uQ4c4wpUZk6XF-JP-81" target="2icyiqS7sDhR82ywdMDU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pa42uQ4c4wpUZk6XF-JP-81" value="Stage" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;fontSize=14;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="2900" y="1183.75" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1095,7 +1098,58 @@
           <mxGeometry x="2715" y="1509" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2icyiqS7sDhR82ywdMDU-11" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Representa una ejecucion de&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;un pipeline. Recopila los losgs&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;asociados con correr pasos&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;y los resultados de los tests&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;realizados. Durante una run,&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;los Azure Pipelines procesan&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;el pipeline y luego envian esta run&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;a uno o mas agentes. Cada&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;agente correra trabajos&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="2875" y="1490" width="170" height="120" as="geometry" />
+          <mxGeometry x="2875" y="1483.75" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-12" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Un script corre codigo como&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;paso en el pipeline y luego&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;envian esta run a uno o&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;mas agentes. Cada agente&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;correra trabajos&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="1273.75" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-13" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Es una regla logica en&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;el pipeline. Se pueden usar&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;para marcar la separacion&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;color: rgb(36 , 41 , 47)&quot;&gt;de asuntos&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;(Build, QA, Produccion).&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Cada stage contiene uno o&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;mas trabajos. Al definir multiples&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;stages en un pipeline, por&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;default, corren una seguida de&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;color: rgb(36 , 41 , 47)&quot;&gt;otra.&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;color: rgb(36 , 41 , 47)&quot;&gt;Se pueden especificar&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;color: rgb(36 , 41 , 47)&quot;&gt;las&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;color: rgb(36 , 41 , 47)&quot;&gt;condiciones en las que&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;color: rgb(36 , 41 , 47)&quot;&gt;corre un stage.&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="1151.88" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2icyiqS7sDhR82ywdMDU-14" target="2icyiqS7sDhR82ywdMDU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2icyiqS7sDhR82ywdMDU-14" target="2icyiqS7sDhR82ywdMDU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2icyiqS7sDhR82ywdMDU-14" target="2icyiqS7sDhR82ywdMDU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-14" value="Cuando es necesario un Stage?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="1155.63" width="120" height="116.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-23" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ejemplo&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2icyiqS7sDhR82ywdMDU-16" target="2icyiqS7sDhR82ywdMDU-22">
+          <mxGeometry x="0.002" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-16" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Hay grupos separados que manejan diferentes partes del pipeline?&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="1099.26" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-25" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ejemplo&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2icyiqS7sDhR82ywdMDU-18" target="2icyiqS7sDhR82ywdMDU-24">
+          <mxGeometry x="-0.0588" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-18" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Hay un set de approvals conectados para un job o set de jobs especificos?&lt;/font&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="1180.51" width="130" height="66.24" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ejemplo&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2icyiqS7sDhR82ywdMDU-20" target="2icyiqS7sDhR82ywdMDU-26">
+          <mxGeometry x="-0.0588" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-20" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Existen jobs que necesiten correr por un tiempo largo?&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="1265.01" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-22" value="&lt;span style=&quot;color: rgb(36 , 41 , 47) ; font-style: normal ; font-weight: 400 ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;Un test manager podría gestionar los Jobs de testing, y otro gestionar los relacionados a production deployment. En este caso, tiene sentido tener stages distintas para testing y production.&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="1093.75" width="305" height="70.74" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-24" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;color: rgb(36 , 41 , 47) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Se pueden usar stages para subdividir los jobs en grupos lógicos que requieran approvals&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="1183.63" width="305" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2icyiqS7sDhR82ywdMDU-26" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;color: rgb(36 , 41 , 47) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Si se tiene parte de un pipeline con un tiempo de ejecución muy largo, tiene sentido dividirla en su propia Stage&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontStyle=3;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="1265.01" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
