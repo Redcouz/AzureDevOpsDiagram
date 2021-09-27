@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T14:26:07.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ZrnSrZol8tpZMhYZh7tN" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T15:13:45.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="qghpVETK-5yfIwQGO9ns" version="15.3.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="8026" dy="4019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3760" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,7 +512,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-330" y="1046" />
-              <mxPoint x="-330" y="960" />
+              <mxPoint x="-330" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -604,19 +604,19 @@
         <mxCell id="IpKgnJviYsZMEOjy3VRT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-36" target="IpKgnJviYsZMEOjy3VRT-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-310" y="1380" />
+              <mxPoint x="-310" y="1574" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-36" target="IpKgnJviYsZMEOjy3VRT-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-310" y="1480" />
+              <mxPoint x="-310" y="1674" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-36" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;Sprint&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="1257.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="1451.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-38" value="" style="endArrow=classic;html=1;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-5" target="IpKgnJviYsZMEOjy3VRT-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -624,75 +624,76 @@
             <mxPoint x="-360" y="1180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-430" y="1288" />
+              <mxPoint x="-430" y="1482" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-39" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Sprint (iteración) es un periodo de tiempo de dos a tres semanas que se utiliza para agrupar work items.&lt;br&gt;En Azure DevOps, es una herramienta que te permite actualizar y hacer seguimiento de user stories y tareas asociadas a una iteracion. Tiene funciones que te pueden ayudar a la estimacion de la capacidad de trabajo de cada integrante del equipo&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="1330" width="320" height="100" as="geometry" />
+          <mxGeometry x="-230" y="1524" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-41" target="IpKgnJviYsZMEOjy3VRT-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-155" y="1590" />
-              <mxPoint x="-440" y="1590" />
+              <mxPoint x="-155" y="1730" />
+              <mxPoint x="-440" y="1730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-41" target="IpKgnJviYsZMEOjy3VRT-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-155" y="1590" />
-              <mxPoint x="-260" y="1590" />
+              <mxPoint x="-155" y="1730" />
+              <mxPoint x="-260" y="1730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-41" target="IpKgnJviYsZMEOjy3VRT-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-155" y="1590" />
-              <mxPoint x="-50" y="1590" />
+              <mxPoint x="-155" y="1730" />
+              <mxPoint x="-50" y="1730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-41" target="IpKgnJviYsZMEOjy3VRT-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-155" y="1590" />
-              <mxPoint x="130" y="1590" />
+              <mxPoint x="-155" y="1730" />
+              <mxPoint x="130" y="1730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-41" value="&lt;font size=&quot;1&quot;&gt;Dentro del Sprint tenes&lt;br&gt;distintas Sub-Divisiones:&lt;br&gt;TaskBoards&lt;br&gt;Backlog&lt;br&gt;Capacity&lt;br&gt;Analyticks&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="1440" width="150" height="90" as="geometry" />
+          <mxGeometry x="-230" y="1634" width="150" height="90" as="geometry" />
         </mxCell>
         <UserObject label="&lt;i&gt;&lt;font color=&quot;#eaa398&quot;&gt;Sirve para agendar la&amp;nbsp;&lt;br&gt;ejecución&amp;nbsp;de Work Items&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" placeholders="1" name="Variable" id="IpKgnJviYsZMEOjy3VRT-43">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
-            <mxGeometry x="-390" y="1216" width="160" height="50" as="geometry" />
+            <mxGeometry x="-390" y="1410" width="160" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-44" value="TaskBoards" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="1654" width="120" height="60" as="geometry" />
+          <mxGeometry x="-500" y="1794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-46" value="Backlog" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="1654" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="1794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-48" value="Capacity" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="1654" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="1794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-50" value="Analyticks" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1654" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="1794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-52" value="&lt;div style=&quot;font-size: 10px&quot;&gt;Es un mapa/tablero de&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;tareas por hacer en el Sprint&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;actual.&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Este es totalmente configurable&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;para utilizar las columnas que&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;necesitas&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Ejemplo:&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;To Do, In Progress, Done&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="1710" width="170" height="120" as="geometry" />
+          <mxGeometry x="-500" y="1850" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-53" value="&lt;div style=&quot;font-size: 10px&quot;&gt;Backlog del sprint actual&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Incluso puedes organizar&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;tus Tasks o User Stories&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;en distintos Sprints.&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Que te apareceran a la derecha&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="1690" width="170" height="120" as="geometry" />
+          <mxGeometry x="-320" y="1830" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-54" value="&lt;div style=&quot;font-size: 10px&quot;&gt;Aquí puedes poner la&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;cantidad de horas laborales&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;que tiene el desarrollador&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;por día, los días franco, y el&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;tipo de trabajo que esta haciendo,&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;luego esto repercute en Analytics&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="1695" width="170" height="120" as="geometry" />
+          <mxGeometry x="-110" y="1835" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-55" value="&lt;div style=&quot;font-size: 10px&quot;&gt;Va a mostrar la carga del trabajo&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;en función del tiempo.&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Lo ideal seria que siempre nos&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;encontremos debajo de la linea&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;verde, que es la estimación que&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;realizamos&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1695" width="170" height="120" as="geometry" />
+          <mxGeometry x="70" y="1835" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-56" value="" style="endArrow=classic;html=1;shadow=0;exitX=0.476;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="1" source="xuVnpB0GkHX7hO2u2HWk-1790" target="IpKgnJviYsZMEOjy3VRT-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -706,8 +707,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CEYbAag7C8xuwxCF1seY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="IpKgnJviYsZMEOjy3VRT-57" target="CEYbAag7C8xuwxCF1seY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEYbAag7C8xuwxCF1seY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="IpKgnJviYsZMEOjy3VRT-57" target="CEYbAag7C8xuwxCF1seY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-57" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Delivery&lt;br&gt;Plans&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-300" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CEYbAag7C8xuwxCF1seY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="IpKgnJviYsZMEOjy3VRT-59" target="CEYbAag7C8xuwxCF1seY-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-59" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Queries&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" parent="1" vertex="1">
           <mxGeometry x="-300" y="1085" width="120" height="60" as="geometry" />
@@ -792,25 +802,8 @@
         <mxCell id="IpKgnJviYsZMEOjy3VRT-73" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Branches&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="850" y="1594" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IpKgnJviYsZMEOjy3VRT-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-75" target="IpKgnJviYsZMEOjy3VRT-77" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IpKgnJviYsZMEOjy3VRT-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="IpKgnJviYsZMEOjy3VRT-75" target="IpKgnJviYsZMEOjy3VRT-79" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="1235" />
-              <mxPoint x="150" y="1055" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-75" value="Es un explorador de repositorios. Tiene opciones desde la interfaz para crear nuevas ramas o crear nuevos repositorios. &quot;Clone&quot; nos permite clonar el repo. Tiene Opciones de Credenciales HTTPS/SSH. Tiene compatibilidad VS&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="200" y="1183.75" width="250" height="102.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IpKgnJviYsZMEOjy3VRT-77" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;SSH&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-65" y="1205" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IpKgnJviYsZMEOjy3VRT-79" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;HTTPS&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpKgnJviYsZMEOjy3VRT-81" value="Tiene la misma capacidad de exploración que Files, pero orientada al historia de commits de la rama. Se pueden crear ramas a partir de commits en especificos. Se pueden crear tags y agrearios a los commits.&amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="190" y="1420" width="260" height="100" as="geometry" />
@@ -1202,6 +1195,15 @@
         </mxCell>
         <mxCell id="CEYbAag7C8xuwxCF1seY-10" value="&lt;span style=&quot;color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;i&gt;Hay una empresa cuyos proyectos dependen de diferentes librerías de dominio público. Para evitar problemas de compatibilidad de actualizarse las mismas, la empresa, en lugar de consumirlas directamente desde la fuente, utiliza una copia de la versión de la librería que funciona con el proyecto, la cual está alojada en Artifacts. Esta práctica también asegura el funcionamiento de nuestros proyectos en caso de que se caiga la fuente original.&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="1770" y="-60" width="280" height="249.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CEYbAag7C8xuwxCF1seY-15" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i&gt;Utilice las opciones de visualizacion proporcionadas por los Delivery Plans para revisar el cronograma de los tasks o featuresque el equipo necesita entregar. Delivery Plans te muestra los work items organizados por sprint (Iteration Path) de equipos &lt;br&gt;seleccionados en una vista calendario&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=#DDEBE9;strokeColor=#FF9A96;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="690" width="240" height="169.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CEYbAag7C8xuwxCF1seY-17" value="&lt;font&gt;&lt;i&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;Utilice Delivery Plans para asegurarse de que sus equipos &lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;estén&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;alineados con los objetivos de su &lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;organización&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;.&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;Puede ver &lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;múltiples&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;backlogs y &lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;múltiples&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;equipos a través de toda la cuenta. Puedes interactuar con el plan con un simple Drag-and-Drop para actualizar o modificar el cronograma&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="870" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CEYbAag7C8xuwxCF1seY-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Genera una lista de work items basados &lt;br&gt;en el criterio del filtro que proporcione.&lt;br&gt;Puedes guardar y compartir estos queries&lt;br&gt;&amp;nbsp;con el resto del equipo. Las búsquedas semánticas enumeran work items, pero no se pueden guardar ni compartir.&amp;nbsp;&lt;br&gt;Puede crear consultas desde el portal web o desde un cliente compatible como Visual Studio Team Explorer y Team Explorer Everywhere.&lt;br&gt;Tambien se puede abrir &lt;br&gt;una consulta en Excel para realizar &lt;br&gt;adiciones y modificaciones &lt;br&gt;masivas&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fontColor=#333333;strokeColor=#FF9A96;strokeWidth=4;fillColor=#DDEBE9;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1167.38" width="300" height="226.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
