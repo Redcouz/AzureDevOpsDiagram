@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T14:22:52.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="4KeS7msBmkAPjVB_Bb1X" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T14:42:56.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="MpTQ0Z5AiN-M80APtyP0" version="15.3.5" type="github">
   <diagram id="qemPZvNpyssAUF0mMIDs" name="Page-1">
-    <mxGraphModel dx="2839" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3666" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,13 +272,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_84GQx1hShIDob7e-mBL-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;IaaS&lt;/i&gt;&lt;/font&gt;" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;fillColor=#f8cecc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="_84GQx1hShIDob7e-mBL-23">
+        <mxCell id="_84GQx1hShIDob7e-mBL-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;IaaS&lt;/i&gt;&lt;/font&gt;" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;fillColor=#f8cecc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_84GQx1hShIDob7e-mBL-23" target="_84GQx1hShIDob7e-mBL-30">
           <mxGeometry x="0.5467" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-710" y="720" as="sourcePoint" />
             <mxPoint x="-1040" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-880" y="720" />
-              <mxPoint x="-880" y="560" />
+              <mxPoint x="-880" y="468" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -302,10 +302,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_84GQx1hShIDob7e-mBL-30" value="IaaS es la categoría mas flexible de Cloud Services. Su objetivo es entregar el control completo del hardware que hace correr tu app. En vez de comprar hardware, con IaaS, lo rentas.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="520" width="240" height="80" as="geometry" />
+          <mxGeometry x="-1280" y="427.5" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_84GQx1hShIDob7e-mBL-31" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Sin CapEx: &lt;/b&gt;Usuarios no tienen costos iniciales&lt;/li&gt;&lt;li&gt;&lt;b&gt;Agilidad: &lt;/b&gt;Las Aplicaciones pueden ser accedidas rápidamente y quitadas cuando sea necesario.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Gestión: &lt;/b&gt;Se aplica el modelo de responsabilidad compartida; el usuario gestiona y mantiene el servicio que a prestado, y el proveedor cloud gestiona y mantiene la infraestructura&lt;/li&gt;&lt;li&gt;&lt;b&gt;Modelo Basado en el Consumo: &lt;/b&gt;Las organizaciones pagan solamente por lo que usan y operan bajo un modelo OpEx&lt;/li&gt;&lt;li&gt;&lt;b&gt;Habilidad: &lt;/b&gt;No se necesitan profundas habilidades técnicas para realizar deploys, hacer uso del modelo y ganar los beneficios de un cloud publico. Pueden usar las habilidades y experiencia del proveedor cloud para asegurar que los workloads sean seguros y de alta disponibilidad.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Beneficios de Cloud: &lt;/b&gt;Organizaciones pueden usar las habilidades y experiencia del proveedor cloud para asegurar que los workloads sean seguros y de alta disponibilidad.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Flexibilidad: &lt;/b&gt;IaaS&amp;nbsp;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="485" width="270" height="150" as="geometry" />
+        <mxCell id="_84GQx1hShIDob7e-mBL-31" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Sin CapEx: &lt;/b&gt;Usuarios no tienen costos iniciales&lt;/li&gt;&lt;li&gt;&lt;b&gt;Agilidad: &lt;/b&gt;Las Aplicaciones pueden ser accedidas rápidamente y quitadas cuando sea necesario.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Gestión: &lt;/b&gt;Se aplica el modelo de responsabilidad compartida; el usuario gestiona y mantiene el servicio que a prestado, y el proveedor cloud gestiona y mantiene la infraestructura&lt;/li&gt;&lt;li&gt;&lt;b&gt;Modelo Basado en el Consumo: &lt;/b&gt;Las organizaciones pagan solamente por lo que usan y operan bajo un modelo OpEx&lt;/li&gt;&lt;li&gt;&lt;b&gt;Habilidad: &lt;/b&gt;No se necesitan profundas habilidades técnicas para realizar deploys, hacer uso del modelo y ganar los beneficios de un cloud publico. Pueden usar las habilidades y experiencia del proveedor cloud para asegurar que los workloads sean seguros y de alta disponibilidad.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Beneficios de Cloud: &lt;/b&gt;Organizaciones pueden usar las habilidades y experiencia del proveedor cloud para asegurar que los workloads sean seguros y de alta disponibilidad.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Flexibilidad: &lt;/b&gt;IaaS es el mas flexible de los servicios de cloud por que te da el control de la configuración y gestión de hardware que corre tu aplicación&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-1820" y="400" width="530" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="_84GQx1hShIDob7e-mBL-32" value="PaaS provee los mismos beneficios y consideraciones que IaaS, pero agrega algunos beneficios a tener en cuenta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="680" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_84GQx1hShIDob7e-mBL-33" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Sin CapEx: &lt;/b&gt;Usuarios no tienen costos iniciales&lt;/li&gt;&lt;li&gt;&lt;b&gt;Agilidad: &lt;/b&gt;PaaS es mas agil que IaaS y los usuarios no deben configurar servers para correr sus aplicaciones&lt;/li&gt;&lt;li&gt;&lt;b&gt;Modelo Basado en el Consumo: &lt;/b&gt;Las organizaciones pagan solamente por lo que usan y operan bajo un modelo OpEx&lt;/li&gt;&lt;li&gt;&lt;b&gt;Habilidad: &lt;/b&gt;No se necesitan profundas habilidades técnicas para realizar deploys, hacer uso del modelo y ganar los beneficios de PaaS.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Beneficios de Cloud: &lt;/b&gt;Organizaciones pueden usar las habilidades y experiencia del proveedor cloud para asegurar que los workloads sean seguros y de alta disponibilidad. Además, los usuarios pueden acceder a herramientas de desarrollo mas avanzadas y pueden aplicar estas herramientas dentro del ciclo de vida de la app.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Productividad: &lt;/b&gt;Los usuarios pueden enfocarse solamente en el desarrollo de la app, por que el proveedor cloud maneja toda la gestion de la plataforma.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-1820" y="652.5" width="530" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
