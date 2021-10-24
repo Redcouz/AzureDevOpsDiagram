@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T15:26:27.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="eS2g96d1ofAStTKJj8wU" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T15:30:46.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="GSOqpKP3v-wJfoEZY6pJ" version="15.5.9" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="2249" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
         <mxCell id="t2yQqbgyM3sy9qxiI3k3-5" value="Multi-Service Resources" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-310" y="37.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t2yQqbgyM3sy9qxiI3k3-7" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="t2yQqbgyM3sy9qxiI3k3-7" value="Puede configurar un cognitive service que admita varios cognitive services diferentes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-413" y="52.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
