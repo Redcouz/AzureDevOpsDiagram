@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T11:50:16.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-NChtXiMSsI66l5NNPhR" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T12:14:32.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="XJlnG_Y_VBOrvZf4JuE_" version="15.5.9" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="2249" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,12 +115,20 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-120" y="250" />
-              <mxPoint x="-120" y="80" />
+              <mxPoint x="-120" y="-16" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9WvmetvKEbyeU4UL3iK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t2yQqbgyM3sy9qxiI3k3-1" target="Z9WvmetvKEbyeU4UL3iK-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9WvmetvKEbyeU4UL3iK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t2yQqbgyM3sy9qxiI3k3-1" target="Z9WvmetvKEbyeU4UL3iK-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="250" />
+              <mxPoint x="-120" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t2yQqbgyM3sy9qxiI3k3-1" value="Azure Resources" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-10" y="220" width="120" height="60" as="geometry" />
@@ -129,13 +137,22 @@
           <mxGeometry x="-63.75" y="-20" width="227.5" height="175" as="geometry" />
         </mxCell>
         <mxCell id="t2yQqbgyM3sy9qxiI3k3-5" value="Multi-Service Resources" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="-46.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t2yQqbgyM3sy9qxiI3k3-7" value="Puede configurar un cognitive service que admita varios cognitive services diferentes. Puede crear un unico recurso que le permita utilizar Text Analitycs, Computer Vision, Speech y otros servicios. De esta manera usted puede administrar un unico conjunto de credenciales para consumir carios servicios en un unico endpoitn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="23.75" width="237" height="112.5" as="geometry" />
+          <mxGeometry x="-560" y="-72.5" width="237" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="Z9WvmetvKEbyeU4UL3iK-3" value="Single-Service Resources" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9WvmetvKEbyeU4UL3iK-5" value="Cada Cognitive Service se puede utilizar individualmente, por ejemplo, creando recursos discretos de Text Analitycs y Computer Vision en su suscripcion de Azure.&lt;br&gt;De esa forma, se pueden usar endpoints individuales para cada cognitive service y administrar las credenciales para cada servicio de forma independiente. Tambien puede administrar la facturacion por separado.&lt;br&gt;Tambien este recurso tiene una opcion gratuita(con restricciones de uso), haciendo que sea una buena opcion para probar un servicio dentro de tu app." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="193.75" width="237" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9WvmetvKEbyeU4UL3iK-6" value="Training and Prediction Resources" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9WvmetvKEbyeU4UL3iK-8" value="Algunos recursos ofrecen o requieren recursos separados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="473.75" width="237" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
