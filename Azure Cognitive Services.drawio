@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T10:38:49.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="tLoGaTKYUuD3pQGi1nH5" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T11:43:54.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="LTUXBVDYfZ8vDFf4gBi9" version="15.6.0" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,13 @@
         </mxCell>
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RiblvqADB9qFJhKNjGHc-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;&lt;i&gt;Azure Cognitive Services&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="331" y="200" width="166" height="100" as="geometry" />
@@ -259,6 +266,15 @@
         </mxCell>
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-3" value="Puedes usar interfaces REST para usar Cognitive Services, pero es mucho mas facil en soluciones mas complejas usar librerias nativas para el lenguaje de programacion en el que estas desarrollando la app.&lt;br&gt;Los Software Developments Kits(SDKs) para lenguajes de programacion usuales abstraen las interfaces REST para casi todos los Cognitives Services. La viavilidad de los SDK varia segun el Cognitive Service, pero para practicamente todos los servicios hay un SDK en lenguajes tales como: Microsoft C#(ASP.NET), Python, JavaScript, Go, Java&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-4" target="G9OUEWUEo2JU_yxyGa9J-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-4" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Translate Text and Speech&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-6" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="-140.7" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
