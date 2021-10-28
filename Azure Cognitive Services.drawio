@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T19:54:34.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="by4P88LH6vDf7KJShF4h" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T20:47:01.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xpCkmUqgGBUglMUoapRQ" version="15.6.0" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,6 +323,18 @@
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-19" value="&lt;b&gt;&lt;i&gt;Speech&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;Translator&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="920" y="1135" width="120" height="60" as="geometry" />
         </mxCell>
@@ -339,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-24" value="Habilita la traduccion de Speech-To-Text y Speech-To-Speech&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="1120" width="150" height="90" as="geometry" />
+          <mxGeometry x="750" y="1030" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9WvmetvKEbyeU4UL3iK-23" target="Z9WvmetvKEbyeU4UL3iK-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -370,6 +382,27 @@
         </mxCell>
         <mxCell id="G9OUEWUEo2JU_yxyGa9J-38" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Con este filtro puedes seleccionar contenido que no quieres que sea traducido. Por ejemplo: nombres o una palabra o frase que la traducción no tiene ningún sentido o significado en el idioma deseado&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="1350" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-39" value="&lt;b&gt;&lt;i&gt;Speech-to-text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-41" value="&lt;b&gt;&lt;i&gt;Speech Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-43" value="&lt;b&gt;&lt;i&gt;Text-to-speech&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1272.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para transcribir un discurso en formato audio a un formato de texto.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1330" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-46" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para generar un audio de voz a partir de un formato de texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1320" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-47" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para traducir un discurso en formato audio a un idioma en formato audio o texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1330" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-48" value="Puedes usar la API Speech Translator&lt;br&gt;&amp;nbsp;para traducir audio de voz de un microfono o cualquier tipo de audio file y devolver la traduccion como texto o audio" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1060.7" y="1020" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
