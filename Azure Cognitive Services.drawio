@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T01:02:17.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="fxYfxeliFsh72nLNb45m" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T15:54:58.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="CQ9p2W24wIY8hzJkZTlW" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,17 +32,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-4">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-50">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="RiblvqADB9qFJhKNjGHc-1" target="G9OUEWUEo2JU_yxyGa9J-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="790" />
@@ -267,101 +267,101 @@
         <mxCell id="Z9WvmetvKEbyeU4UL3iK-37" value="Cognitives Services proveen REST Aplications Programming Interfaces (APIs) en las cuales los clientes pueden consumir su servicio. Las funciones de estas pueden ser llamadas mediante formato JSON a traves de un llamado HTTP, que puede ser metodos GET, PUT, POST dependiendo de la funcion llamada. Los resultados de las funciones son devueltos como una respuesta HTTP, generalmente en formato JSON que encapsula el output de la funcion.&lt;br&gt;El uso de interfaces REST con endpoints HTTP significa que cualquier lenguaje de programacion o herramienta puede enviar y recibir JSON y consumir los Conginitves Services. C#, Python, JavaScript, Postman, cURL, etc.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="10.000000000000004" y="440" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-1" value="&lt;b&gt;&lt;i&gt;Use an SDK&amp;nbsp;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-1" value="&lt;b&gt;&lt;i&gt;Use an SDK&amp;nbsp;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-3" value="Puedes usar interfaces REST para usar Cognitive Services, pero es mucho mas facil en soluciones mas complejas usar librerias nativas para el lenguaje de programacion en el que estas desarrollando la app.&lt;br&gt;Los Software Developments Kits(SDKs) para lenguajes de programacion usuales abstraen las interfaces REST para casi todos los Cognitives Services. La viavilidad de los SDK varia segun el Cognitive Service, pero para practicamente todos los servicios hay un SDK en lenguajes tales como: Microsoft C#(ASP.NET), Python, JavaScript, Go, Java&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-3" value="Puedes usar interfaces REST para usar Cognitive Services, pero es mucho mas facil en soluciones mas complejas usar librerias nativas para el lenguaje de programacion en el que estas desarrollando la app.&lt;br&gt;Los Software Developments Kits(SDKs) para lenguajes de programacion usuales abstraen las interfaces REST para casi todos los Cognitives Services. La viavilidad de los SDK varia segun el Cognitive Service, pero para practicamente todos los servicios hay un SDK en lenguajes tales como: Microsoft C#(ASP.NET), Python, JavaScript, Go, Java&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="190" y="420" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-4" target="G9OUEWUEo2JU_yxyGa9J-6">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-4" target="G9OUEWUEo2JU_yxyGa9J-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-50" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-4" target="G9OUEWUEo2JU_yxyGa9J-14">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-4" target="G9OUEWUEo2JU_yxyGa9J-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-50" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-4" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Translate Text and Speech&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-4" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Translate Text and Speech&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-110" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-6" target="G9OUEWUEo2JU_yxyGa9J-9">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-6" target="G9OUEWUEo2JU_yxyGa9J-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-720.3" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-6" target="G9OUEWUEo2JU_yxyGa9J-11">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-6" target="G9OUEWUEo2JU_yxyGa9J-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-720.3" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-6" value="&lt;b&gt;&lt;i&gt;Literal and Semantic Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-6" value="&lt;b&gt;&lt;i&gt;Literal and Semantic Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-780.7" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-8" value="&lt;font style=&quot;font-size: 10px&quot;&gt;La traduccion literal es cuando cada palabra es traducida al lenguaje deseado sin ningun tipo de contexto de la frase. Esta forma de traduccion genera varios problemas. Puede ser que no haya una palabra en el lenguaje deseado que traduzca literalmente la palabra en cuestion(tal vez una palabra se traduzca con una frase compuesta). Otro problema es cuando una traduccion literal pierde el significado de la frase real por no entender el contexto de esa frase.&amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-8" value="&lt;font style=&quot;font-size: 10px&quot;&gt;La traduccion literal es cuando cada palabra es traducida al lenguaje deseado sin ningun tipo de contexto de la frase. Esta forma de traduccion genera varios problemas. Puede ser que no haya una palabra en el lenguaje deseado que traduzca literalmente la palabra en cuestion(tal vez una palabra se traduzca con una frase compuesta). Otro problema es cuando una traduccion literal pierde el significado de la frase real por no entender el contexto de esa frase.&amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-950" y="1100" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-9" value="&lt;b&gt;&lt;i&gt;Literal Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-9" value="&lt;b&gt;&lt;i&gt;Literal Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-950" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-11" value="&lt;b&gt;&lt;i&gt;Semantic Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-11" value="&lt;b&gt;&lt;i&gt;Semantic Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-620" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Tiene en cuenta el sentido y el contexto de la frase. Utilizando Inteligencia Artificial entrenada, se pueden identificar lo pequeños sentidos y contextos de la frase para traducirla en lo que el emisor realmente quería transmitir.&lt;br&gt;Los sistemas de Inteligencia Artificial deben ser capaces de entender, no solamente las palabras, si no también el contexto semántico en donde son usadas, esto resulta en un servicio que puede devolver una traducción mas precisa de la frase o frases ingresadas. Las reglas gramaticales, formal vs informal y lunfardo deben ser considerados.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Tiene en cuenta el sentido y el contexto de la frase. Utilizando Inteligencia Artificial entrenada, se pueden identificar lo pequeños sentidos y contextos de la frase para traducirla en lo que el emisor realmente quería transmitir.&lt;br&gt;Los sistemas de Inteligencia Artificial deben ser capaces de entender, no solamente las palabras, si no también el contexto semántico en donde son usadas, esto resulta en un servicio que puede devolver una traducción mas precisa de la frase o frases ingresadas. Las reglas gramaticales, formal vs informal y lunfardo deben ser considerados.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-620.35" y="1120" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-14" target="G9OUEWUEo2JU_yxyGa9J-17">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-14" target="G9OUEWUEo2JU_yxyGa9J-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-14" target="G9OUEWUEo2JU_yxyGa9J-19">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-14" target="G9OUEWUEo2JU_yxyGa9J-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-14" value="&lt;b&gt;&lt;i&gt;Text and Speech Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-14" value="&lt;b&gt;&lt;i&gt;Text and Speech Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="150" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-16" value="&lt;font style=&quot;font-size: 10px&quot;&gt;La traduccion de texto puede usarse para traducir documentos de un lenguaje a otro; traducir emails e incluso dar la habilidad de traducir paginas web enteras en internet.&amp;nbsp;&lt;br&gt;Antes de poder usar el servicio debe proveer recursos apropiados en tu suscripción Azure.&lt;br&gt;Hay recursos dedicados a los servicios de Text y Speech, que puedes usar si quieres para administrar el acceso y la factura por cada servicio individualmente.&lt;br&gt;Tambien puede usar un recurso de Cognitive Service que provee el acceso a ambos servicios a través de un solo endpoint y una sola Key de auntentificacion&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-16" value="&lt;font style=&quot;font-size: 10px&quot;&gt;La traduccion de texto puede usarse para traducir documentos de un lenguaje a otro; traducir emails e incluso dar la habilidad de traducir paginas web enteras en internet.&amp;nbsp;&lt;br&gt;Antes de poder usar el servicio debe proveer recursos apropiados en tu suscripción Azure.&lt;br&gt;Hay recursos dedicados a los servicios de Text y Speech, que puedes usar si quieres para administrar el acceso y la factura por cada servicio individualmente.&lt;br&gt;Tambien puede usar un recurso de Cognitive Service que provee el acceso a ambos servicios a través de un solo endpoint y una sola Key de auntentificacion&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="1090" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-17" target="G9OUEWUEo2JU_yxyGa9J-21">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-17" target="G9OUEWUEo2JU_yxyGa9J-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-17" target="G9OUEWUEo2JU_yxyGa9J-30">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-17" target="G9OUEWUEo2JU_yxyGa9J-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-17" value="&lt;b&gt;&lt;i&gt;Translator Text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-17" value="&lt;b&gt;&lt;i&gt;Translator Text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="150" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-24">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-39">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-41">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-43">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-48">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-19" target="G9OUEWUEo2JU_yxyGa9J-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-19" value="&lt;b&gt;&lt;i&gt;Speech&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;Translator&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-19" value="&lt;b&gt;&lt;i&gt;Speech&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;Translator&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="740" y="1375" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-21" value="Soporta traducción Text-To-Text&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-21" value="Soporta traducción Text-To-Text&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-14" target="G9OUEWUEo2JU_yxyGa9J-16">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-14" target="G9OUEWUEo2JU_yxyGa9J-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="1400" as="sourcePoint" />
             <mxPoint x="260" y="1350" as="targetPoint" />
@@ -370,107 +370,185 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-24" value="Habilita la traduccion de Speech-To-Text y Speech-To-Speech&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-24" value="Habilita la traduccion de Speech-To-Text y Speech-To-Speech&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1270" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9WvmetvKEbyeU4UL3iK-23" target="Z9WvmetvKEbyeU4UL3iK-24">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z9WvmetvKEbyeU4UL3iK-23" target="Z9WvmetvKEbyeU4UL3iK-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="710" as="sourcePoint" />
             <mxPoint x="870" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Este Servicio de traducción de texto es fácil de integrar en tus aplicaciones, websites, herramientas y soluciones. El servicio usa un modelo de Neural Machine Translation (NMT) para la traducción, que analiza el contexto semántico del texto y renderiza una solución mas adecuada y completa para la traducción.&lt;br&gt;Este servicio soporta traducción entre mas de 60 idiomas. cuando usas este servicio, debes especificar el idioma de entrada y el idioma de salida usando los códigos de lenguaje ISO-639-1. Alternativamente, puedes especificar las variantes de los lenguajes extendiendo con el código del lenguaje que es apropiado según los códigos culturales 3166-1.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Este Servicio de traducción de texto es fácil de integrar en tus aplicaciones, websites, herramientas y soluciones. El servicio usa un modelo de Neural Machine Translation (NMT) para la traducción, que analiza el contexto semántico del texto y renderiza una solución mas adecuada y completa para la traducción.&lt;br&gt;Este servicio soporta traducción entre mas de 60 idiomas. cuando usas este servicio, debes especificar el idioma de entrada y el idioma de salida usando los códigos de lenguaje ISO-639-1. Alternativamente, puedes especificar las variantes de los lenguajes extendiendo con el código del lenguaje que es apropiado según los códigos culturales 3166-1.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="151" y="1580" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-30" target="G9OUEWUEo2JU_yxyGa9J-33">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-30" target="G9OUEWUEo2JU_yxyGa9J-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-30" target="G9OUEWUEo2JU_yxyGa9J-35">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-30" target="G9OUEWUEo2JU_yxyGa9J-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-30" value="&lt;b&gt;&lt;i&gt;Opciones de Configuracion&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-30" value="&lt;b&gt;&lt;i&gt;Opciones de Configuracion&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="430" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-33" value="&lt;b&gt;&lt;i&gt;Profanity Filtering&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-33" value="&lt;b&gt;&lt;i&gt;Profanity Filtering&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="330" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-35" value="&lt;b&gt;&lt;i&gt;Selective Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-35" value="&lt;b&gt;&lt;i&gt;Selective Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="550" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-37" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Sin configurar este filtro, el servicio va traducir el texto sin filtrar ningún tipo de palabra mal sonante o ofensiva.&lt;br&gt;En cambio, con el filtro, puedes controlar este tipo de palabras, directamente rechazando el texto de input que tenga palabras ofensivas o censurando estas palabras dentro del texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-37" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Sin configurar este filtro, el servicio va traducir el texto sin filtrar ningún tipo de palabra mal sonante o ofensiva.&lt;br&gt;En cambio, con el filtro, puedes controlar este tipo de palabras, directamente rechazando el texto de input que tenga palabras ofensivas o censurando estas palabras dentro del texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="330" y="1610" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-38" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Con este filtro puedes seleccionar contenido que no quieres que sea traducido. Por ejemplo: nombres o una palabra o frase que la traducción no tiene ningún sentido o significado en el idioma deseado&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-38" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Con este filtro puedes seleccionar contenido que no quieres que sea traducido. Por ejemplo: nombres o una palabra o frase que la traducción no tiene ningún sentido o significado en el idioma deseado&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="1590" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-39" value="&lt;b&gt;&lt;i&gt;Speech-to-text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-39" value="&lt;b&gt;&lt;i&gt;Speech-to-text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="740" y="1515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-41" value="&lt;b&gt;&lt;i&gt;Speech Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-41" value="&lt;b&gt;&lt;i&gt;Speech Translation&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-43" value="&lt;b&gt;&lt;i&gt;Text-to-speech&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-43" value="&lt;b&gt;&lt;i&gt;Text-to-speech&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="930" y="1512.5" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para transcribir un discurso en formato audio a un formato de texto.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para transcribir un discurso en formato audio a un formato de texto.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="740" y="1570" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-46" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para generar un audio de voz a partir de un formato de texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-46" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para generar un audio de voz a partir de un formato de texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="930" y="1560" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-47" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para traducir un discurso en formato audio a un idioma en formato audio o texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-47" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usado para traducir un discurso en formato audio a un idioma en formato audio o texto&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1570" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-48" value="Puedes usar la API Speech Translator&lt;br&gt;&amp;nbsp;para traducir audio de voz de un microfono o cualquier tipo de audio file y devolver la traduccion como texto o audio" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-48" value="Puedes usar la API Speech Translator&lt;br&gt;&amp;nbsp;para traducir audio de voz de un microfono o cualquier tipo de audio file y devolver la traduccion como texto o audio" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="880.7" y="1260" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="G9OUEWUEo2JU_yxyGa9J-52">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="G9OUEWUEo2JU_yxyGa9J-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1839" y="730" />
+              <mxPoint x="1710" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="G9OUEWUEo2JU_yxyGa9J-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="G9OUEWUEo2JU_yxyGa9J-54">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="G9OUEWUEo2JU_yxyGa9J-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1839" y="730" />
+              <mxPoint x="1967" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="KCxiz5_dyu2Pp51__2kV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-50" target="G9OUEWUEo2JU_yxyGa9J-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;Text To Speech&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;Text To Speech&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1779.3" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-52" value="Text-to-Speech convierte &lt;br&gt;texto en audio de tipo humano. &lt;br&gt;Usado en simultano con Cognitive Service, como el de Translation, puedes incrementar exponencialmente el &lt;br&gt;potencial de tu app." style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1729.3" y="610" width="220" height="110" as="geometry" />
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-52" value="Text-to-Speech convierte &lt;br&gt;texto en audio de tipo humano. &lt;br&gt;Usado en simultano con Cognitive Service, como el de Translation, puedes incrementar exponencialmente el &lt;br&gt;potencial de tu app." style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="502.5" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-54" target="G9OUEWUEo2JU_yxyGa9J-56">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-54" target="G9OUEWUEo2JU_yxyGa9J-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-54" target="G9OUEWUEo2JU_yxyGa9J-58">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-54" target="G9OUEWUEo2JU_yxyGa9J-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="G9OUEWUEo2JU_yxyGa9J-54" target="G9OUEWUEo2JU_yxyGa9J-60">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="G9OUEWUEo2JU_yxyGa9J-54" target="G9OUEWUEo2JU_yxyGa9J-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-54" value="&lt;b&gt;&lt;i&gt;Types of Voices&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-54" value="&lt;b&gt;&lt;i&gt;Types of Voices&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" parent="1" vertex="1">
           <mxGeometry x="1779.3" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-56" value="&lt;b&gt;&lt;i&gt;Neural Voice&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-56" value="&lt;b&gt;&lt;i&gt;Neural Voice&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" parent="1" vertex="1">
           <mxGeometry x="1779.3" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-58" value="&lt;b&gt;&lt;i&gt;Custom Neural Voice&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-58" value="&lt;b&gt;&lt;i&gt;Custom Neural Voice&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" parent="1" vertex="1">
           <mxGeometry x="2109.3" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-60" value="&lt;b&gt;&lt;i&gt;Standard Voice&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-60" value="&lt;b&gt;&lt;i&gt;Standard Voice&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" parent="1" vertex="1">
           <mxGeometry x="1450" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-62" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Es el mas simple y el que mayor rango de costo-eficiencia tiene de los sistemas. En los ultimos años Standard Voice a mejorado considerablemente para proveer una voz tipo humana en varios dialectos regionales, como Irlandés o Hindi.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-62" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Es el mas simple y el que mayor rango de costo-eficiencia tiene de los sistemas. En los ultimos años Standard Voice a mejorado considerablemente para proveer una voz tipo humana en varios dialectos regionales, como Irlandés o Hindi.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1450" y="1140" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-63" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Es un nuevo tipo de voz sintetizada que es prácticamente indistinguible de una grabación humana. Desarrollada por profundas neural networks, Neural Voices suena mas natural que Standard Voices. Mediante la producción de patrones de discurso idénticos al humano. como el estrés y el volumen de palabras individuales.&amp;nbsp;&lt;br&gt;Esto genera una articulación de palabras mas precisa, ademas de una reduccion significativa de la fatiga de los usuarios al interactuar con la A.I&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-63" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Es un nuevo tipo de voz sintetizada que es prácticamente indistinguible de una grabación humana. Desarrollada por profundas neural networks, Neural Voices suena mas natural que Standard Voices. Mediante la producción de patrones de discurso idénticos al humano. como el estrés y el volumen de palabras individuales.&amp;nbsp;&lt;br&gt;Esto genera una articulación de palabras mas precisa, ademas de una reduccion significativa de la fatiga de los usuarios al interactuar con la A.I&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1779.3" y="1210" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-64" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Puedes usar tu propio audio de voz para crear una voz sintética única e irrepetible. Este servicio tiene el nivel mas profundo de personalizacion con voces extremadamente realisticas que pueden usarse para representar bandas, personificar machines y permitir a usuarios conversar con aplicaciones de A.I&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-64" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Puedes usar tu propio audio de voz para crear una voz sintética única e irrepetible. Este servicio tiene el nivel mas profundo de personalizacion con voces extremadamente realisticas que pueden usarse para representar bandas, personificar machines y permitir a usuarios conversar con aplicaciones de A.I&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2109.3" y="1160" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G9OUEWUEo2JU_yxyGa9J-65" value="El Long Audio API es un servicio dentro de Text-To-Speech que puede&lt;br&gt;&amp;nbsp;generar audios de 10 minutos o mas" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1987" y="737.5" width="173" height="105" as="geometry" />
+        <mxCell id="G9OUEWUEo2JU_yxyGa9J-65" value="El Long Audio API es un servicio dentro de Text-To-Speech que puede&lt;br&gt;&amp;nbsp;generar audios de 10 minutos o mas" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="507.5" width="173" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCxiz5_dyu2Pp51__2kV-1" target="KCxiz5_dyu2Pp51__2kV-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="400" />
+              <mxPoint x="2541" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCxiz5_dyu2Pp51__2kV-1" target="KCxiz5_dyu2Pp51__2kV-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="400" />
+              <mxPoint x="2380" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCxiz5_dyu2Pp51__2kV-1" target="KCxiz5_dyu2Pp51__2kV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCxiz5_dyu2Pp51__2kV-1" target="KCxiz5_dyu2Pp51__2kV-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="400" />
+              <mxPoint x="2060" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCxiz5_dyu2Pp51__2kV-1" target="KCxiz5_dyu2Pp51__2kV-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="400" />
+              <mxPoint x="1900" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-1" value="&lt;b&gt;&lt;i&gt;When Use &lt;br&gt;Text-to-Speech&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-4" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Usar para mejorar la accesibilidad de tu app o para mejores interacciones con el usuario como en smartphones, smart tvs, laptops y autos&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="650" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-7" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-9" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-11" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-13" value="&lt;b&gt;&lt;i&gt;Public Service Announcements&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-15" value="&lt;b&gt;&lt;i&gt;Assistive Technology&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#B09500;fillColor=#DAE39D;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Con el servicio de Neural Voice, puedes tener una voz mas real, natural, personalizable y menos desgastante para el ser humano. Esto puede dar oportunidades a los individuos de utilizar el genero y o personaje que ellos prefieran para su presentación. Además también puede usarse en autos para mensajes importantes y que no genere fatiga en el conductor, así puede estar mas concentrado en el manejo y a la vez prestar atención a las advertencias que le hace el auto.&lt;br&gt;También puede utilizarse para personas con discapacidad visual o dislexia, al narrarte el texto en una voz humana se hace mas fácil retener los conceptos narrados o incluso les da la oportunidad de escuchar un libro de texto que de otra forma seria imposible para ellos&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="20" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-18" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Transmitir a un publico masivo debe ser fácilmente entendible y generar confianza. Este servicio puede ayudar a organizaciones a sacar información rápidamente, Al ofrecer distintos tipos de idiomas y dialectos puede crear una accesibilidad mayor.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="160" width="140.7" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KCxiz5_dyu2Pp51__2kV-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Transmitir a un publico masivo debe ser fácilmente entendible y generar confianza. Este servicio puede ayudar a organizaciones a sacar información rápidamente, Al ofrecer distintos tipos de idiomas y dialectos puede crear una accesibilidad mayor.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="160" width="140.7" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
