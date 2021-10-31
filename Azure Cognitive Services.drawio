@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T13:17:19.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9S4nA_cDbvW7S4ckkhV6" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T13:52:40.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tLayeOotJkoFZYTAJGEC" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3327" dy="2070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -756,8 +756,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-48" value="Puede configurar un cognitive service que admita varios cognitive services diferentes. Puede crear un unico recurso que le permita utilizar Text Analitycs, Computer Vision, Speech y otros servicios. De esta manera usted puede administrar un unico conjunto de credenciales para consumir carios servicios en un unico endpoitn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-48" value="Provee una trancripcion en tiempo real de audio a texto. El audio puede ser provisto por microfonos, audio files o blob storage y puede ser traducido a mas de 90 idiomas y dialectos. Este servicio es optimo para conversaciones y dicatados.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-615.75" y="-1026.25" width="237" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-49" value="Ese servicio te habilita a transcribir una gran cantidad de audio en almacenamiento. Puedes transcribir uno o mas audios o un contenedor entero de audios y recibir la respuesta en un tiempo no automatico.&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-620.35" y="-926.25" width="237" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
