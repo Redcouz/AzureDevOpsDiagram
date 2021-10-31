@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T19:50:49.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MOMXC20GrLTaQz3-9MVc" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T19:53:02.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lQT4G1iP_vGlxkVcUhiS" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -880,7 +880,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1210" y="-615" />
-              <mxPoint x="1210" y="-710" />
+              <mxPoint x="1210" y="-700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -910,12 +910,12 @@
           <mxGeometry x="1270" y="-873.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-88" value="&lt;b&gt;&lt;i&gt;Increasing Accesibility&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-90" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-90" value="&lt;b&gt;&lt;i&gt;Meeting Compilance Standards&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-558.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-92" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-92" value="&lt;b&gt;&lt;i&gt;Organization Communication&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-425" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
