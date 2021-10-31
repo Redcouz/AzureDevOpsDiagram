@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T19:28:10.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="y0vDpPhDEY0VC7Aw8B36" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T19:45:26.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TDf-oTuobrjg9QCpgwc0" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -658,7 +658,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="-370" />
-              <mxPoint x="180" y="-610" />
+              <mxPoint x="180" y="-615" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -667,6 +667,14 @@
             <Array as="points">
               <mxPoint x="414" y="-720" />
               <mxPoint x="414" y="-720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="_jrpOVe_Czo5pAk3hjEU-22" target="_jrpOVe_Czo5pAk3hjEU-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="-370" />
+              <mxPoint x="670" y="-615" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -791,9 +799,6 @@
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="_jrpOVe_Czo5pAk3hjEU-56" target="_jrpOVe_Czo5pAk3hjEU-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="_jrpOVe_Czo5pAk3hjEU-56" target="_jrpOVe_Czo5pAk3hjEU-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="_jrpOVe_Czo5pAk3hjEU-56" target="_jrpOVe_Czo5pAk3hjEU-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -824,11 +829,8 @@
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-56" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Como usar Speech-To-Text&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="354" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-58" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
-          <mxGeometry x="804" y="-1090" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-60" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
-          <mxGeometry x="624" y="-1090" width="120" height="60" as="geometry" />
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-58" value="&lt;b&gt;&lt;i&gt;Phrases Lists&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-62" value="&lt;b&gt;&lt;i&gt;Custom Speech-To-Text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="444" y="-1090" width="120" height="60" as="geometry" />
@@ -848,14 +850,29 @@
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-73" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;C#&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;C++&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Go&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Java(Android y JRE)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;JavaScript&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Objective-c/Swift&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Python&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-120.34999999999991" y="-1190" width="140.7" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-74" value="Por default usa el Universal Language Model, entrenado por la propia data de Micrrosoft.&lt;br&gt;Este servicio se puede usar con multiples audio inputs. Seleccionar un micrófono o un dispositivo de audio es posible a través de una REST API mediante la obtención del device ID que puede ser usado por el Speech SDK. También puedes usar este servicio con audios desde tu memoria interna.&lt;br&gt;Usa el REST API para audios cortos, que esta limitado a 60 segundos y solo debe ser utilizado en los momentos que el SDK no puede ser utilizado, como modelos que usan múltiples data sets. El formato por default es wav, pero MP3, OGG, FLAC, ALAW y MULAW tambien son soportados.&lt;br&gt;El assest de pronunciacion tambien es funcional de manera sincronica para evaluar tu audio y darte feedback inmediatamente, Usando un texto de referencia, este feedback esta basado en parametros de configuracion que seteas previamente, tales como 0-5 o 0-100. PUede basarse en silabas, un texto completo o incluso una sola palabra,&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="69.17" y="-1440" width="149.65" height="112.5" as="geometry" />
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-74" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Por default usa el Universal Language Model, entrenado por la propia data de Micrrosoft.&lt;br&gt;Este servicio se puede usar con multiples audio inputs. Seleccionar un micrófono o un dispositivo de audio es posible a través de una REST API mediante la obtención del device ID que puede ser usado por el Speech SDK. También puedes usar este servicio con audios desde tu memoria interna.&lt;br&gt;Usa el REST API para audios cortos, que esta limitado a 60 segundos y solo debe ser utilizado en los momentos que el SDK no puede ser utilizado, como modelos que usan múltiples data sets. El formato por default es wav, pero MP3, OGG, FLAC, ALAW y MULAW tambien son soportados.&lt;br&gt;El assest de pronunciacion tambien es funcional de manera sincronica para evaluar tu audio y darte feedback inmediatamente, Usando un texto de referencia, este feedback esta basado en parametros de configuracion que seteas previamente, tales como 0-5 o 0-100. PUede basarse en silabas, un texto completo o incluso una sola palabra,&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1400" width="149.65" height="112.5" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-75" value="Batch transcription es un set de operaciones de REST API que te habilita a transcribir un audio grande en almacenamiento. Debes apuntar a los audios usando el tipico URI o Shared Access Signature(SAS) URI para recibir el resultado de trancripciones en un tiempo asincronico. Con el v3.0 API, puedes transcribir uno o mas audios en el almacenamiento.&lt;br&gt;Soporta WAV, MP3 y OGG&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-1620" width="149.65" height="112.5" as="geometry" />
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-75" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Batch transcription es un set de operaciones de REST API que te habilita a transcribir un audio grande en almacenamiento. Debes apuntar a los audios usando el tipico URI o Shared Access Signature(SAS) URI para recibir el resultado de trancripciones en un tiempo asincronico. Con el v3.0 API, puedes transcribir uno o mas audios en el almacenamiento.&lt;br&gt;Soporta WAV, MP3 y OGG&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-1590" width="149.65" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-76" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;{&lt;br&gt;    &lt;/span&gt;&lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(4 , 81 , 165) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;contentContainerUrl&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(163 , 21 , 21) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;&amp;lt;SAS URL to the Azure blob container to transcribe&amp;gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;,&lt;br&gt;    &lt;/span&gt;&lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(4 , 81 , 165) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;properties&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;: {&lt;br&gt;        &lt;/span&gt;&lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(4 , 81 , 165) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;wordLevelTimestampsEnabled&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;hljs-literal&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(7 , 112 , 74) ; background-color: rgb(242 , 242 , 242)&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&lt;br&gt;    },&lt;br&gt;    &lt;/span&gt;&lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(4 , 81 , 165) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;locale&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(163 , 21 , 21) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;en-US&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;,&lt;br&gt;    &lt;/span&gt;&lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(4 , 81 , 165) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;displayName&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(163 , 21 , 21) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&quot;Transcription of container using default model for en-US&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(242 , 242 , 242)&quot;&gt;&lt;br&gt;}&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="-1446.25" width="370" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-79" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Este modelo puede ser utilizado para mejorar la presicion de la transcripcion de Speech-To-Text. Puedes crear un modelo utilizando Speach Studio (Un portal de Azure Speech Service). En el portal se te dan instrucciones precisas en como generar el deploy del modelo de Speech Recognition usando audio de transcripciones humanas, texto relacionado y una guia de pronunciacion que tu provees&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="-1250" width="149.65" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-81" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Puedes usar listas de frase para mejorar la precisión&amp;nbsp;de tu&amp;nbsp;transcripción. Provees una lista de frases o palabras que tengan un alto porcentaje de ser mal transcriptas, como un nombre de persona o una terminología&amp;nbsp;técnica.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-1206.25" width="149.65" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="_jrpOVe_Czo5pAk3hjEU-82" target="_jrpOVe_Czo5pAk3hjEU-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-82" value="&lt;b&gt;&lt;i&gt;Cuando usar Speech-To-Text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-84" value="Con Speech-To-Text,&lt;br&gt;&amp;nbsp;puedes usar formas mas naturales de comunicacion para facilitar, enteracciones con aplicaciones y A.I." style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-511.25" width="160" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
