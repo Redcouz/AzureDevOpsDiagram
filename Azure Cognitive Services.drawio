@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T19:46:53.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="A3Q8hy0xuJv-ELWSpMHO" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T19:49:43.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QBK6s2OFe60-CdfjIJVS" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -892,13 +892,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="_jrpOVe_Czo5pAk3hjEU-82" target="_jrpOVe_Czo5pAk3hjEU-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="-615" />
+              <mxPoint x="1210" y="-395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-82" value="&lt;b&gt;&lt;i&gt;Cuando usar Speech-To-Text&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="990" y="-645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-84" value="Con Speech-To-Text,&lt;br&gt;&amp;nbsp;puedes usar formas mas naturales de comunicacion para facilitar, enteracciones con aplicaciones y A.I." style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="-511.25" width="160" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-86" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-86" value="&lt;b&gt;&lt;i&gt;Assistive Technology&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-873.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-88" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
@@ -906,6 +914,9 @@
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-90" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-558.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-92" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-425" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
