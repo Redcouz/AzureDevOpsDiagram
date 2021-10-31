@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T19:55:49.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="795b7nS8n762Jz2OQ7fR" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T20:00:14.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BnirhLyonf5K2OKdg906" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -918,8 +918,11 @@
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-92" value="&lt;b&gt;&lt;i&gt;Organization Communication&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#CFBAC6;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-94" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Puedes usar listas de frase para mejorar la precisión&amp;nbsp;de tu&amp;nbsp;transcripción. Provees una lista de frases o palabras que tengan un alto porcentaje de ser mal transcriptas, como un nombre de persona o una terminología&amp;nbsp;técnica.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-900" width="149.65" height="112.5" as="geometry" />
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-94" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Puede usarse para ayudar a trabajar/estudiar sin utilizar las manos, como en el área&amp;nbsp;de medicina. Al dictar sus transcripciones&amp;nbsp;y guardarlas, pueden compartirlas sabiendo que no se perderá&amp;nbsp;información&amp;nbsp;importante en el proceso( ya que pueden identificar su terminología&amp;nbsp;especifica)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-902.5" width="190" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_jrpOVe_Czo5pAk3hjEU-95" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Puede usarse para ayudar a trabajar/estudiar sin utilizar las manos, como en el área&amp;nbsp;de medicina. Al dictar sus transcripciones&amp;nbsp;y guardarlas, pueden compartirlas sabiendo que no se perderá&amp;nbsp;información&amp;nbsp;importante en el proceso( ya que pueden identificar su terminología&amp;nbsp;especifica)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-757.5" width="190" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
