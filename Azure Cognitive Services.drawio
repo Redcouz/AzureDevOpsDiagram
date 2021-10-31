@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T20:09:39.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BbP2c5ZFDnm8t_PpOg2x" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T20:11:41.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hv3gh197lYtrw2Vu1_ns" version="15.6.2" type="github">
   <diagram id="Uhn_6moB0uJkG4MjftD4" name="Page-1">
     <mxGraphModel dx="3076" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -923,9 +923,6 @@
         </mxCell>
         <mxCell id="_jrpOVe_Czo5pAk3hjEU-95" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Este servicio provee un ambiente mas inclusivo. Reduciendo la necesidad de tipeo manual, personas con discapacidad&amp;nbsp; pueden comunicarse igual.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-757.5" width="190" height="112.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_jrpOVe_Czo5pAk3hjEU-96" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Este servicio provee un ambiente mas inclusivo. Reduciendo la necesidad de tipeo manual, personas con discapacidad&amp;nbsp; pueden comunicarse igual.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-585" width="190" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
