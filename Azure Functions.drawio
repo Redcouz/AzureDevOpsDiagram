@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T14:54:16.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kqDy1xno4tKXKA1UgvAP" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T14:55:22.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6Yzb5y1DrUgqfsvF1CAI" version="15.6.3" type="github">
   <diagram id="oRoor3QD__L9eZZ4H3Ug" name="Page-1">
     <mxGraphModel dx="2249" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
               <mxPoint x="540" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GbnGjuRc_vSX7z4Gi8ss-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="viv2s1QD0Q5ynQNhOB1b-2" target="GbnGjuRc_vSX7z4Gi8ss-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="viv2s1QD0Q5ynQNhOB1b-2" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Azure Functions&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
@@ -107,11 +110,17 @@
         <mxCell id="viv2s1QD0Q5ynQNhOB1b-27" value="&lt;i&gt;&lt;b&gt;Execution Time&lt;/b&gt;&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="500" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viv2s1QD0Q5ynQNhOB1b-29" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="viv2s1QD0Q5ynQNhOB1b-29" value="&lt;b&gt;&lt;i&gt;Frecuencia de Ejecucion&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="850" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viv2s1QD0Q5ynQNhOB1b-31" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;Por default, las funciones tienen un tiempo límite de 5min. Este puede configurarse a un máximo de 10min, Si tu función requiere más de este tiempo para ejecutarse, puede alojarse en una máquina virtual (VM). Adicionalmente, si tu servicio se inicia mediante una solicitud HTTP y esperas ese valor como una respuesta HTTTP, el tiempo límite queda restringido a 2.5min. Finalmente, está la opción llamada&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: 600 ; color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;Durable Functions&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;, que te permite gestionar la ejecución de múltiples funciones sin ningún timeout.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="500" y="-310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GbnGjuRc_vSX7z4Gi8ss-2" value="&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 16px ; color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Si esperas que tu función sea ejecutada continuamente por múltiples clientes, sería prudente estimar el uso y calcular los costos. Quizá sea más económico alojar el servicio en una VM.&amp;nbsp;&lt;/font&gt;Mientras se escala, solo una instancia de una función de la app puede ser creada cada 10segs, hasta 200 instancias en total. Teniendo en cuenta que cada instancia puede ofrecer múltiples ejecuciones concurrentes (esto quiere decir que se van intercalando las tareas que componen cada ejecución, no se hacen al mismo tiempo (paralelismo) ni una despues de otra (estructurada)), así que no hay un límite específico respecto a cuánto tráfico puede tolerar una sola instancia. Diferentes tipos de triggers tienen diferentes requerimientos en cuanto a escalabilidad, así que es conveniente investigar tu elección de trigger, junto con sus límites.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-360" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GbnGjuRc_vSX7z4Gi8ss-3" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
