@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T21:00:29.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7US-aRwiLh9ZfHrKXpKz" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T00:24:25.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3lB9aXgY8Pujh_vhqJ-c" version="15.6.3" type="github">
   <diagram id="oRoor3QD__L9eZZ4H3Ug" name="Page-1">
     <mxGraphModel dx="1185" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,12 @@
         </mxCell>
         <mxCell id="viv2s1QD0Q5ynQNhOB1b-17" value="&lt;b&gt;&lt;i&gt;Functions in Traditional Compute Enviroments&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="650" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viv2s1QD0Q5ynQNhOB1b-21" value="Te provees de un server para VM (Virtual Machine) y lo configuras con suficientes recursos para manejar los tiempos pico de carga. Cuando la cara esta completa, tu estas potencialmente pagando infraestructura que no estas usando. Serverless Computing te ayuda a resolver estos problemas escalando hacia arriba o hacia abajo automaticamente y solo pagaras lo usado" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="viv2s1QD0Q5ynQNhOB1b-22" value="Las funciones Stateless son grandes candidatos para computos serverless,&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-250" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
