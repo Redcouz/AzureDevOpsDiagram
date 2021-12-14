@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T14:34:35.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="bCEcT-Ew_bHn8puCBEh9" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T14:53:33.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="40zRfUE5iPPjaXzvz-g-" version="15.9.6" type="github">
   <diagram id="Fu0YMkwdqyOP2bC0BSwv" name="Page-1">
-    <mxGraphModel dx="1609" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2436" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-400" y="-170" />
-              <mxPoint x="-400" y="-440" />
+              <mxPoint x="-400" y="-520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -144,10 +144,10 @@
           <mxGeometry x="-790" y="-185" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XbEDU2rf98PscCy2KWea-14" value="Fundamentos de Memoria" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XbEDU2rf98PscCy2KWea-17" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-455" width="220" height="30" as="geometry" />
+        <mxCell id="XbEDU2rf98PscCy2KWea-17" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;Cada proceso tiene su propio espacio de direccion virtual. Todos los procesos en la misma computadora comparten la misma memoria fisica y la misma Page File si existe alguna.&lt;/li&gt;&lt;li&gt;Por defecto, en computadoras de 32-bits, cada proceso tiene 2gb disponibles de espacio virtual de usuario.&lt;/li&gt;&lt;li&gt;La direccion de la memoria virtual puede estar fragementada. Esto significa que hay bloques libres en el espacio de la direccion.&lt;/li&gt;&lt;li&gt;Te puede quedar sin memoria si no hay suficiente espacio en la direcciond e la memoria virtual para reservar o comitear&lt;/li&gt;&lt;li&gt;La memoria virtual puede tener 3 estados:&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Free: El bloque de memoria no tiene referencias y esta disponible para utilizarse.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Reserved: El bloque de memoria esta disponible para tu uso y no puede ser usado por cualquier otro pedido. Sin embargo, no puedes almacenar data en este bloque de memoria hasta que este commiteado.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Commited: El bloque de memoria esta asignado a un almacenamiento fisico.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-520" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
